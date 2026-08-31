@@ -61,7 +61,7 @@ http://localhost:8000
 
 ## Credits
 
-This project uses restaurant branding and menu content inspired by Emgees African Restaurant & Bakery for educational frontend practice.
+This project uses restaurant branding and menu content inspired by Emgees African Restaurant & Bakery for educational frontend practice
 
 ## Future Improvements
 
